@@ -1,0 +1,14 @@
+{
+  "name": "Vortex",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/brooswit/Vortex.git",
+  "author": "John Winstead <jwinstead@launchdarkly.com>",
+  "license": "MIT",
+  "dependencies": {
+    "amqplib": "^0.5.5",
+    "express": "^4.17.1",
+    "launchdarkly-node-server-sdk": "^5.13.1",
+    "node-zendesk": "^1.4.0"
+  }
+}

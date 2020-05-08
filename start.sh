@@ -1,4 +1,3 @@
-cd src
-yarn
-yarn update
-node index.js
+git pull origin master
+npm update
+bash run.sh
